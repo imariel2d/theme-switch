@@ -1,0 +1,13 @@
+[data-theme="light"] {
+  --background: white;
+  --slider: #cccccc;
+  --slider-button: white;
+  --text: #616161;
+}
+
+[data-theme="dark"] {
+  --background: #616161;
+  --slider: #95CD41;
+  --slider-button: white;
+  --text: white;
+}
